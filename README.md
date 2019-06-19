@@ -6,10 +6,10 @@ Utilities - Screenshottable - Aimbot - Fps - Aim Range - Aim Position - Bunny Ho
 <h3>Why this hack is the best</h3>
 This hack has the built-in utilities used by so many players that give you extra crosshairs and make the game much more customisable and fun! It also does not have any visible features which allows you to screenshot it in all freedom!
 
-<h3>How To Fix Script Detected?</h3></br>
+<h3>How To Fix Script Detected?</h3>
 https://www.youtube.com/watch?v=HjwhMNDTlZA
 
-<b>Requirements:</b> • Tampermonkey</br>
+<h3>Requirements:</h3> • Tampermonkey</br>
 
 <h2>Userscript: <a href="https://github.com/MrCoderN/krunker.io-hack-cheat-mod/raw/master/krunkerhack.user.js" target="_blank">CLICK HERE</a></h2>
 
