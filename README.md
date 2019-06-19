@@ -4,7 +4,8 @@ Utilities - Screenshottable - Aimbot - Fps - Aim Range - Aim Position - Bunny Ho
 </br></br>
 <h3>Why this hack is the best</h3>
 <b>This hack has the built-in utilities used by so many players that give you extra crosshairs and make the game much more customisable and fun! It also does not have any visible features which allows you to screenshot it in all freedom!</b>
-<b>How To Fix Script Detected?</b></br>
+
+<h3>How To Fix Script Detected?</h3></br>
 https://www.youtube.com/watch?v=HjwhMNDTlZA
 
 <b>Requirements:</b> • Tampermonkey</br>
