@@ -11,7 +11,7 @@ This hack has the built-in utilities used by so many players that give you extra
 https://www.youtube.com/watch?v=HjwhMNDTlZA
 </br></br>
 
-<h3>Requirements:</h3> • <a href="https://www.tampermonkey.net/" target="_blank">Tampermonkey</a></br>
+<h3>Requirements:</h3> • <a href="https://www.tampermonkey.net/">Tampermonkey</a></br>
 </br></br>
 
 <h2>Userscript: <a href="https://github.com/MrCoderN/krunker.io-hack-cheat-mod/raw/master/krunkerhack.user.js" target="_blank">CLICK HERE</a></h2>
