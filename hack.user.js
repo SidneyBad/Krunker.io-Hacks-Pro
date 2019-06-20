@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         Krunker.io 2019 Aimbot (Hacks,Mods,Cheats) | NO DISCONNECT ISSUE | KRUNKERIO.ORG
+// @name         Krunker.io Utilities Mod
 // @version      7.9.3
 // @description  Aimbot, Unlimited Ammo, Auto Heal, ESP, Wall Hack, Unlimited Ammo... -2019 krunkerio hack- ADBLOCK
-// @author       MR.Coder
-// @namespace MR.Coder
-// @updateURL    https://github.com/MrCoderN/krunker.io-hack-cheat-mod/raw/master/krunkerhack.user.js
-// @downloadURL  https://github.com/MrCoderN/krunker.io-hack-cheat-mod/raw/master/krunkerhack.user.js
+// @author       SidneyBad
+// @namespace SidneyBad
+// @updateURL    https://github.com/SidneyBad/Krunker.io-Hacks-Pro/raw/master/hack.user.js
+// @downloadURL  https://github.com/SidneyBad/Krunker.io-Hacks-Pro/raw/master/hack.user.js
 // @require      http://code.jquery.com/jquery-3.3.1.min.js
 // @match        *://krunker.io/*
 // @grant        GM_xmlhttpRequest
